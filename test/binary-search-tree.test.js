@@ -31,7 +31,7 @@ describe('Binary search tree', () => {
       expect(instance).to.respondTo('min');
       expect(instance).to.respondTo('max');
     });
-  });
+  }); 
 
   //Functional requirements
   describe('functional requirements', () => {
